@@ -1,6 +1,6 @@
-## **Analisis exploratorio de los datos de las ventas de cafe mediante el lenguaje de oprogramación python.**
+## **Analisis exploratorio de los datos de las ventas de cafe mediante el lenguaje de programación python.**
 
-### Varibles del set de datos
+### Varibles del set de datos:
 
 **hour_of_day:** Hora del día en formato numérico (por ejemplo, 10 para las 10 a.m., 12 para las 12 p.m.).
 
@@ -22,7 +22,9 @@
 
 **DateTime:** Fecha completa de la compra en formato año-mes-día.
 
-**Time:** Hora exacta y fracción de tiempo en que se realizó la compra.<br>
+**Time:** Hora exacta y fracción de tiempo en que se realizó la compra.
+
+### **Algunos gráficos:**
 
 
 
